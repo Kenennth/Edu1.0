@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <ScrollView
+                android:layout_width="300dp"
+                android:layout_height="match_parent">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+                    <ImageView
+                        android:layout_marginTop="10dp"
+                        android:layout_marginLeft="25dp"
+                        android:layout_width="250dp"
+                        android:layout_height="200dp"
+                        android:background="@drawable/gway"/>
+
+                    <TextView
+                        android:layout_marginLeft="25dp"
+                        android:layout_width="250dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="#ffffff"
+                        android:text="플레이 방법에대해서 설명하겠습니다. 공책에 적혀있는 목록중에 필요한 부분을 클릭합니다."/>
+
+                    <ImageView
+                        android:id="@+id/imageView"
+                        android:layout_width="250dp"
+                        android:layout_height="200dp"
+                        android:layout_marginLeft="25dp"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/gway1" />
+
+                    <TextView
+                        android:layout_marginLeft="25dp"
+                        android:layout_width="250dp"
+                        android:layout_height="wrap_content"
+                        android:textColor="#ffffff"
+                        android:text="오른쪽 동그란 부분에 손을 데고 왼쪽,오른쪽으로 드래그하면 페이지가 넘어갑니다.."/>
+
+
+
+
+
+                </LinearLayout>
+
+            </ScrollView>
+
+        </LinearLayout>
+
+
+
+
+</LinearLayout>

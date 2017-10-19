@@ -1,0 +1,1071 @@
+<resources>
+    <string name="app_name">쫘스</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-4630665392757339/9080138437</string>
+    <string name="interstitial_Ad_unit_id">ca-app-pub-4630665392757339/5264978511</string>
+    <string name="banner_ad_unit_id1">ca-app-pub-4630665392757339/7695878344 </string>
+
+
+
+
+
+
+    <!--At school Chapter 1 -->
+    <!-- StartAnswer-->
+    <string name="sentences1">부사+주어+동사+명사</string> ㅇ
+    <string name="sentences2">주어+동사+명사+부사</string>
+    <string name="sentences3">동사+명사+주어+부사</string>
+    <string name="sentences4">명사+주어+동사+부사</string>
+
+    <!-- Answer1 -->
+    <string name="sentences5">동사+주어+의문사+조동사</string>
+    <string name="sentences6">조동사+주어+동사+의문사</string>
+    <string name="sentences7">의문사+조동사+주어+동사</string>ㅇ
+    <string name="sentences8">주어+동사+의문사+조동사</string>
+
+    <!-- Answer2 -->
+    <string name="sentences9">보어+동사+주어</string>
+    <string name="sentences10">주어+동사+보어</string>ㅇ
+    <string name="sentences11">동사+주어+보어</string>
+    <string name="sentences12">주어+보어+동사</string>
+
+    <!-- Answer3 -->
+    <string name="sentences13">주어+동사+보어(부사)</string>ㅇ
+    <string name="sentences14">동사+주어+보어(부사)</string>
+    <string name="sentences15">주어+보어(부사)+동사 </string>
+    <string name="sentences16">보어(부사)+동사+주어</string>
+
+    <!-- Answer4 -->
+    <string name="sentences17">동사+주어+목적어+목적격보어</string>
+    <string name="sentences18">주어+동사+목적어+목적격보어</string> ㅇ
+    <string name="sentences19">목적어+주어+동사+목적격보어</string>
+    <string name="sentences20">목적격보어+주어+동사+목적어</string>
+
+
+
+    <!--At school Chapter 2 -->
+    <!-- StartAnswer-->
+    <string name="sentences25">잘 모르겠습니다!</string>
+    <string name="sentences26">were, am, i 입니다!</string>
+    <string name="sentences27">do, is, am 입니다!</string>
+    <string name="sentences28">am are is 입니다!</string>
+
+    <!-- Answer1 -->
+    <string name="sentences29">where, was 입니다! </string>
+    <string name="sentences30">does, goes 입니다!</string>
+    <string name="sentences31">was, were 입니다!</string>
+    <string name="sentences32">잘 모르겠습니다!</string>
+
+    <!-- Answer2 -->
+    <string name="sentences33">대부분의 일반동사의 과거형은 es를 붙입니다!</string>
+    <string name="sentences34">대부분의 일반동사의 과거형은 ed를 붙입니다!</string>
+    <string name="sentences35">과거는... 과거일 뿐입니다!....</string>
+    <string name="sentences36">생...생각이 나지 않습니다!</string>
+
+    <!-- Answer3 -->
+    <string name="sentences37">대부분의 일반동사의 과거형은 es를 붙입니다!</string>
+    <string name="sentences38">기억이 떠오르지 않습니다!</string>
+    <string name="sentences39">일반동사의 대부분은 ed 형입니다!</string>
+    <string name="sentences40">정말 열심히 공부했는데.. 게이지가 더 필요합니다!</string>
+
+    <!-- Answer4 -->
+    <string name="sentences41">에또...정답을...잘....</string>
+    <string name="sentences42">정답은..is 입니다!</string>
+    <string name="sentences43">정답은..Are 입니다!</string>
+    <string name="sentences44">정답은..Am 입니다!</string>
+
+    <!-- Answer5 -->
+    <string name="sentences45">인생에 정답은 없습니다!</string>
+    <string name="sentences46">정답은 Am 입니다!</string>
+    <string name="sentences47">정답은 Are 입니다!</string>
+    <string name="sentences48">정답은 Is 입니다!</string>
+
+    <!-- Answer6 -->
+    <string name="sentences49">물론! 형용사입니다!</string>
+    <string name="sentences50">물론! 전치사 입니다!</string>
+    <string name="sentences51">물론! 일반동사입니다!</string>
+    <string name="sentences52">물론! Be동사입니다!</string>
+
+
+    <!--At school Chapter 3 -->
+    <!-- StartAnswer-->
+    <string name="sentences53">현재 완료형입니다.</string>
+    <string name="sentences54">현재 시제입니다.</string>
+    <string name="sentences55">현재 진행형입니다.</string> ㅇ
+    <string name="sentences56">현재 완료 진행형입니다.</string>
+
+    <!-- Answer1 -->
+    <string name="sentences57">현재 완료형입니다. </string>
+    <string name="sentences58">현재 시제입니다.</string>
+    <string name="sentences59">현재 진행형입니다.</string> ㅇ
+    <string name="sentences60">현재 완료 진행형입니다.</string>
+
+    <!-- Answer2 -->
+    <string name="sentences61">현재완료 입니다.</string>
+    <string name="sentences62">현재 시제입니다.</string>
+    <string name="sentences63">현재 완료 진행형입니다.</string>
+    <string name="sentences64">현재 진행형입니다.</string> ㅇ
+
+    <!-- Answer3 -->
+    <string name="sentences65">현재 완료형, 현재완료형입니다.</string> ㅇ
+    <string name="sentences66">현재 시제입니다.</string>
+    <string name="sentences67">현재 완료형입니다.</string>
+    <string name="sentences68">현재 진행형입니다.</string>
+
+    <!-- Answer4 -->
+    <string name="sentence1">현재 완료 진행형입니다.</string> ㅇ
+    <string name="sentence2">현재 시제입니다.</string>
+    <string name="sentence3">현재 완료형입니다.</string>
+    <string name="sentence4">현재 진행형입니다.</string>
+
+
+
+
+    <!--At school Chapter 4 -->
+    <!-- StartAnswer-->
+    <string name="sentences69">After i feed dogs, They are sleeping.</string> ㅇ
+    <string name="sentences70">I have known each other well.</string>
+    <string name="sentences71">I have lost in touch with him for a long time.</string>
+    <string name="sentences72">He was given an important mission.</string>
+
+    <!-- Answer1 -->
+    <string name="sentences73">I have been reading 3books for a week.</string>
+    <string name="sentences74">I have been tired out so i do not want to do it.</string>
+    <string name="sentences75">I am waiting for her.</string>
+    <string name="sentences76">I have just finished cleaning the room.</string> ㅇ
+
+    <!-- Answer2 -->
+    <string name="sentences77">She has found the key.</string>
+    <string name="sentences78">I have ever been to Japan.</string> ㅇ
+    <string name="sentences79">They have gone to their hometown.</string>
+    <string name="sentences80">I have just checked out the room.</string>
+
+    <!-- Answer3 -->
+    <string name="sentences81">I am going to school.</string>
+    <string name="sentences82">He is always laughing.</string> ㅇ
+    <string name="sentences83">She is doing something.</string>
+    <string name="sentences84">I am just leaving work.</string>
+
+
+
+
+
+
+
+    <!--At school Chapter 5 -->
+    <!-- StartAnswer-->
+    <string name="sentences85">She went to home.</string>
+    <string name="sentences86">He is going to beach.</string>
+    <string name="sentences87">He is able to run fast.</string> ㅇ
+    <string name="sentences88">Listen to me please.</string>
+
+    <!-- Answer1 -->
+    <string name="sentences89">Talk to me.</string>
+    <string name="sentences90">Get to bed.</string>
+    <string name="sentences91">Get to work.</string>
+    <string name="sentences92">I have to go.</string> ㅇ
+
+    <!-- Answer2 -->
+    <string name="sentences93">I seem to be lost.</string>
+    <string name="sentences94">I am coming to you.</string> ㅇ
+    <string name="sentences95">I want to be free.</string>
+    <string name="sentences96">I have got to relax.</string>
+
+    <!-- Answer3 -->
+    <string name="sentences97">They decided to start a business.</string> ㅇ
+    <string name="sentences98">I am so sad to break up with her .</string>
+    <string name="sentences99">We are glad to hear from them.</string>
+    <string name="sentences100">It is not an easy to save money.</string>
+
+    <!-- Answer3 -->
+    <string name="sentences101">He lent me a nice car to show my friends.</string>
+    <string name="sentences102">She has been studying.</string>
+    <string name="sentences103">I ran away from me to do something.</string>
+    <string name="sentences104">My friend is too angry so that he shout out to them.</string> ㅇ
+
+
+
+
+
+    <!--At the bus chapter 1 -->
+    <!-- StartAnswer-->
+    <string name="bus">Excuse me, does 536 stop here?.</string> ㅇ
+    <string name="bus1">Excuse me, does this bus stop here?.</string>
+    <string name="bus2">Do you have girl friend?.</string>
+    <string name="bus3">Do i look good?.</string> ㅇ
+
+    <!-- Answer1 -->
+    <string name="bus4">Tanks.</string>
+    <string name="bus5">I see.</string>
+    <string name="bus6">.......</string>ㅇ
+    <string name="bus7">Thanks Driver.</string> ㅇ
+
+    <!-- Answer2 -->
+    <string name="bus8">My home?.</string>
+    <string name="bus9">Hell?.</string>
+    <string name="bus10">Do something?.</string>
+    <string name="bus11">Destination[you wanted].</string> ㅇ
+
+    <!-- Answer3 -->
+    <string name="bus12">I am sorry,I am out!.</string> ㅇ
+    <string name="bus13">Is it possible to go head?.</string> ㅇ
+    <string name="bus14">I will top up it right away please wait a second.</string> ㅇ
+    <string name="bus15">To avoid the card balance.</string>
+
+
+
+
+
+
+
+    <!--at the Store -->
+    <!-- StartAnswer-->
+    <string name="store1">Hey dumb,Top up it right now.</string>
+     <string name="store2">Top up it please.</string> ㅇ
+    <string name="store3">Can you give me some money?.</string>
+    <string name="store4">Where is the toilet?.</string>
+
+    <string name="store5">Please top up it for $20?.</string> ㅇ
+    <string name="store6">for $20 please.</string> ㅇ
+    <string name="store7">Please charge it for $20.</string> ㅇ
+    <string name="store8">whatever you want.</string>
+
+    <string name="store9">Thanks, now is it possible to use it?.</string> ㅇ
+    <string name="store10">Can you check my current balance?.</string> ㅇ
+    <string name="store11">How much does it have?.</string>
+    <string name="store12">Quit.</string> ㅇ
+
+
+
+    <!--At the street chapter 1 -->
+    <!-- StartAnswer-->
+    <string name="street1">Where are you looking at?.</string> ㅇ
+    <string name="street2">What are you looking at?.</string> ㅇ
+    <string name="street3">When are you looking at?.</string>
+    <string name="street4">Yes I am.</string>
+
+    <string name="street5">when does she look like?.</string>
+    <string name="street6">what does she look like?.</string> ㅇ
+    <string name="street7">does she look like?.</string> ㅇ
+    <string name="street8">how do she?.</string>
+
+    <string name="street9">I can\&apos;t see her.</string>
+    <string name="street10">I don\&apos;t mind, let\&apos;s just look around </string> ㅇ
+    <string name="street11">How does she look like?.</string> ㅇ
+    <string name="street12">Where is the building?.</string>
+
+    <string name="street13">Where is the club?.</string>
+    <string name="street14">Really why don\&apos;t you tell me about it?.</string> ㅇ
+    <string name="street15">Why not?.</string> ㅇ
+    <string name="street16">I have never heard of it.</string>
+
+    <string name="street17">Yes! of course.</string>
+    <string name="street18">No, i don\&apos;t.</string> ㅇ
+    <string name="street19">Let\&apos;s visit there once more before we leave.</string> ㅇ
+    <string name="street20">No, I\&apos;m not.</string>
+
+
+    <!--At the restaurant-->
+
+    <string name="restaurant1">Yes, Table for one please.</string> ㅇ
+    <string name="restaurant2">I\&apos;m not a dining.</string> ㅇ
+    <string name="restaurant3">Who\&apos;the dining.</string>
+    <string name="restaurant4">No, I\&apos;m not we are all three</string> ㅇ
+
+    <string name="restaurant5">Can i see the menu please?.</string> ㅇ
+    <string name="restaurant6">No thanks I\&apos;m just looking around.</string> ㅇ
+    <string name="restaurant7">Can you give me a menu?</string> ㅇ
+    <string name="restaurant8">Yes, i will take a cake.</string>
+
+    <string name="restaurant9">I\&apos;ll have chicken please.</string> ㅇ
+    <string name="restaurant10">I\&apos;ll take a medicine now.</string>
+    <string name="restaurant11">I\&apos;ll take a pizza please.</string> ㅇ
+    <string name="restaurant12">I\&apos;ll take juice please.</string> ㅇ
+
+    <string name="restaurant13">Yes I\&apos;d like a cup of cafe latte please.</string> ㅇ
+    <string name="restaurant14">No thanks</string> ㅇ
+    <string name="restaurant15">Yes I\&apos;d take like a cup of Americano please.</string>
+    <string name="restaurant16">I catch you up.</string>
+
+    <string name="restaurant17">Could i have a bill please?.</string> ㅇ
+    <string name="restaurant18">Can i have a bill please?</string> ㅇ
+    <string name="restaurant19">Hey, bring the bill right now.</string>
+    <string name="restaurant20">can i get a bill please?.</string> ㅇ
+
+    <string name="restaurant21">I\&apos;d rather pay now please.</string> ㅇ
+    <string name="restaurant22">I\&apos;d rather charge it to my room.</string> ㅇ
+    <string name="restaurant23">Isn\&apos;t that a free?.</string>
+    <string name="restaurant24">[To run out of the restaurant].</string>
+
+
+    <!--At the bank-->
+
+    <string name="bank1">I\&apos;d like to open a bank account..</string> ㅇ
+    <string name="bank2">Please open a bank account.</string> ㅇ
+    <string name="bank3">Nothing.</string>
+    <string name="bank4">I need you to do my homwork.</string>
+
+    <string name="bank5">I\&apos;d like an account for regular banking.</string>
+    <string name="bank6">I need an regular banking.</string> ㅇ
+    <string name="bank7">What types do you have?.</string> ㅇ
+    <string name="bank8">Could you tell me what types and advantages you have.</string>
+
+    <string name="bank9">I use my debit card quite a bit.</string> ㅇ
+    <string name="bank10">I use my identification card.</string>
+    <string name="bank11">I use passport when i pay for.</string>
+    <string name="bank12">Both of them.</string> ㅇ
+
+    <string name="bank13">Okay, can i set this up with my new account?</string> ㅇ
+    <string name="bank14">Okay can i set you on someday?</string>
+    <string name="bank15">Okay i will set off fantastic ones.</string>
+    <string name="bank16">I am not your customer, I am your father.</string> ㅇ
+
+
+
+
+
+
+
+
+
+    <!-- Grammar1 부터  -->
+
+    <string name="btn1" >
+        <b> 1. 시작하기 전에 명심해야 할 것들\n\n</b>
+        <font size="12" color="#000000">
+        영어공부를 시작하기전에 반드시 계속 해야 할 것들입니다.\n\n
+        공부에도,일에도 그렇듯이 열정,흥미가 어느정도는 계속 유지가 되어야 꾸준히 할 수있습니다.\n\n
+        아무리 천재라도 단 하루만에 언어를 마스터하는 사람은 없습니다.\n\n
+        그렇기 때문에 이 두가지는 영어공부를 하기전에도, 하면서도 항상 지녀야 할 것들입니다.\n\n
+        </font>
+    </string>
+
+    <string name="btn1_1">
+        <font size="12" color="#000000">\n\n
+        영어는 전세계 고용어라고 이야기가 나오듯, 특히 우리나라는 정말로 기본적으로 알아야 할 언어 중에 하나라고 할 수 있습니다.\n\n
+        거의 모든 기술력과 유행은 영어권에서 시작되기 때문에, 그에 따른 정보들도 모두 영어로 쓰여 있을 것 입니다.\n\n
+        언어 번역기라는 좋은 프로그램이 있다고해서, 그것이 모든 것을 대체 할 수는 없을 것입니다.\n\n
+        그리고 번역본이 나올 때 까지 기다린 다는 것은,그 시간만큼, 남들보다 정보 습득력이 늦어질 수도 있다는 얘기입니다.\n\n
+        </font>
+    </string>
+
+    <string name="btn1_2">
+        <font size="12" color="#000000">\n\n
+        영어권이 아닌 외국에 여행을 간다고 해도, 영어는 세계 공용어이기 때문에,\n\n
+        어느 나라를 여행해도, 어느정도 영어로 소통하고, 자유여행도 원활하게 할 수 있을 것입니다.\n\n
+        <b>영어</b> 생각보다 어렵고 복잡하지 않고, 꾸준히 노력해서
+        접하고 이해하신다면,\n\n 어느 순간 영어에 자신감이 붙으실 겁니다. 확신합니다!
+        </font>
+    </string>
+
+    <string name="btn1_3">
+        <font size="12" color="#000000">\n\n
+        문법 파트를 굳이 버튼으로 끊어서 나누어 놓은 이유는 책갈피를 할 필요없이, 원하는 부분만 볼 수 있게끔 하기 위해서
+        나름 신경써서 만들었습니다.\n\n
+        이것이 왜 중요하냐면 영어 문장을 해석할때, 이 문장이 어떠한 문법이 쓰였는지 보고
+        해석하는데 용이하기 때문입니다.\n\n 그렇습니다 이 방법이 아직 문법이 익숙하지 않으신 분들께서 하셔야할 방법입니다.\n\n
+        </font>
+    </string>
+
+    <string name="btn1_4">
+        <font size="12" color="#000000">\n\n
+         계속해서 이런 식으로 문장을 보고, 어떤 문법으로 쓰였는지 계속 확인하시면 어느 순간에 문법이 머릿속에 들어가 있을 것입니다.\n\n
+        이 앱을 다운로드 받으신 모든 분들께 감사드리고, 기회비용으로 학원이나 과외를 받지않고  단기간에 영어를 습득해서, 좋은 성과를 보셨으면 좋겠습니다.\n\n
+        다음 부분에서는 우리나라의 문장과 영어문장이 어떻게 다르고 무엇이 차이가 있는지 알아보겠습니다.
+        </font>
+    </string>
+
+    <!--Grammar2  -->
+
+
+    <string name="btn2_1">
+       <!-- <![CDATA[<b><font color=#FF0000>Hello world!</font></b>]]>-->
+        <b>2.우리나라 문장과 영어 문장의 차이 비교 및 순서\n\n</b>
+        <font size="12" color="#000000">
+            우리나라 문장과 영어문장의 차이점을 알아보겠습니다. 먼저 우리나라 문장 예를들어, \&apos;나는 학생입니다\&#39; 할때,\n\n
+        \&apos;나는\&#39; 은 주어(문장의 주체가 되는 단어), \&apos;학생\&#39; 은 명사(사물이나 사람의 명칭을 나타내는 품사) 그리고 \&apos;입니다\&#39;(주어의 상태를 설명하는 존대 말)\n\n
+        을 볼때, 영어로 바꿔 본다면, I am a student 입니다. \n\n
+        여기서 \&apos;I\&#39;가 주어 \&apos;am\&#39;이 (주어의 설명을 나타내는 be동사) \&apos;a\&#39;는 관사라고 들어보셨을 겁니다. 명사 앞에 놓여서 단수,복수를 나타내는 품사입니다.
+            그리고 student라는 명사가 있습니다.
+        </font>
+    </string>
+
+    <string name="btn2_2">
+        <font size="12" color="#000000">
+            \n\n
+            - 나는 학생이다   주어+명사+서술어(~이다)\n\n
+            - I\&apos;\&#39;m a student  주어+be동사(~이다)+관사+명사\n\n
+            라고 분석 할 수있습니다. 이런 식으로 영어가 처음에 익숙하지 않은 분들에게는 이런 식으로 문장을 끊어서 분석 할 수 있는\n\n
+            능력이 중요합니다!
+        </font>
+    </string>
+
+    <string name="btn2_3">
+       <font size="12" color="#000000">
+            영어의 단어와 문장을 습득하는 순서도 굉장히 중요합니다. 영어를 전혀 모르시는 분들께서는,짧은 문장의 한 문장 문장에 있는 단어들을 읽고,\n\n
+            단어의 뜻을 찾아서, 읽는 연습을 하셔야 하고, 그 이후에는, 긴 문장을 짧게 짧게 끊어서 문장을 읽고 해석 하셔야합니다. 가장 중요한 것은\n\n
+            처음에도 이야기 했었습니다만, 흥미를 잃지 마시고 계속 꾸준히 하는 것이 제일 중요합니다. 본격적으로 시작하기 전에, 품사가 무엇이 있고 무엇인지,\n\n
+            살펴봅시다. <font size="14" color="#FF0000">품사를 알아야 하는 이유는, 문장을 분석하고 구조를 이해하기 위해서 입니다.</font>
+        </font>
+    </string>
+
+    <string name="btn2_4">
+        <font size="12" color="#000000">
+            품사는 단어를 기능,형태,의미에 따라 나눈 갈래 라고 사전에 나와있습니다. 말 그대로입니다.\n\n
+            영어의 품사는 8가지가 있습니다. 굳이 지금 다 외우시지 마시고, 다음 부분에서 품사가 나올 때 마다, 이 말뜻이 무슨 의미였는지, 확인해보시기 바랍니다.\n\n
+            다음 부분은 영어 문법에 대해서 소개하겠습니다. 절대로 문법을 단기간에 외우려고 하지마세요 그렇게 영어에 대한 흥미를 스스로 잃게하지 마세요.\n\n
+            이해하는 것과 이 문법이 어느 어느 상황에 쓰여야 하는 것인지 아는것이 제일 중요하기 때문에! 수 개월을 거쳐 많은 문장을 보고 비교 하셔야합니다!\n\n
+            설명하는 것 이외에도 굉장히 많은 부분이 저절로 습득이 가능하다는 것을 장담합니다.\n\n
+       </font>
+    </string>
+
+    <string name="btn2_5">
+        <font size="13" color="#000000">
+            \n
+             1.명사:사물,사람,장소등의 이름을 나타내는 품사\n
+            2.대명사:살마이나 사물의 이름을 대신하는 품사\n
+            3.동사: 주어의 동작이나 상태를 나타내는 품사\n
+            4.형용사: 명사를 수식하거나 <font size="14" color="#FF0000">보어</font> 역할을 하는 단어
+            5.부사:동사,형용사,부사 등을 꾸며주는 품사\n
+            6.전치사: 명사 앞에 놓여서 시간,장소,방향을 나타내는 품사\n
+            7.접속사: 단어나 단어,구와구,절과절을 연결해주는 품사\n
+            8.감탄사: 감정을 나타내는 품사사\n
+        </font>
+            <font size="9" color="#FF0000">   보어 : (문장의 의미를 더 보충해주기 위한 단어 또는 말)</font>
+    </string>
+
+    <string name="btn3_1">
+        <font size="12" color="#000000">
+            <b>3.Be동사\n\n</b>
+            Be동사는 영어에서는 사람,물건들 또는 상태, 영구적이나 일시적인 질, 상태,작업등을 말할때, 또는 공간이나 시간속의 사람과
+            사물의 위치를 표현한다고 적혀있습니다.\n 그리고 어디에서 만들어졌는지 또한 Be동사(Be Verb)로 표현 할 수 있습니다. 이렇듯
+            Be동사는 영어에서 가장 기본적이고 중요한 회화 방식으로, 굉장히 많이 사용됩니다, Be Verb에는 여러 품사와 같이 쓰여서 다양한\n
+            뜻으로 표현이 될 수 있습니다.</font> <font size="15" color="#FF0000">Be 동사 뒤에는 명사,대명사,형용사,전치사+명사가 올 수 있습니다.</font>
+    </string>
+
+    <string name="btn3_2">
+       <font size="12" color="#000000">
+            I\&apos;\&#39;am Korean. 나는 한국 사람입니다. 명사와 함께(사람의 출신을 설명)\n
+            I\&apos;\&#39;m sick. 아픕니다. 형용사와 함께(사람의 상태를 표현)\n
+            It\&apos;\&#39;s hard. 그건 딱딱합니다. 형용사와 함께(물건의 상태설명)\n
+            He is Police officer 그는 경찰관입니다. 명사와 함께(사람의 지위를 설명)\n
+            My parent are very kind 저희 부모님은 정말 친절하십니다. 형용사(상태설명)\n
+            I\&apos;\&#39;m in front of her house 저는 그녀의 집 앞에 있습니다. 전치사+명사와 함께,(위치 설명)\n
+            꼭 기억하세요 명사,대명사,형용사,전치사+명사가 올 수 있다는 것을!
+        </font>
+    </string>
+
+    <string name="btn4_1">
+       <font size="12" color="#000000">\n
+            형용사의 예시를 우리나라 말로 표현하자면, 착한, 격한, 강한, 예쁜, 아름다운 등등.. 형용사의 공통점은 받침이 -ㄴ으로 끝난다는 것입니다.\n\n
+            영어도 우리나라의 예시처럼, <font size="13" color="#FF0000">명사 앞에 오기도하고, Be동사 바로 뒤에 와서 주어의 상태를 나타낼때 씁니다.</font>\n\n
+            예를 들어면, I am kind, I am strong, I am pretty.. 등등 어순이 다른 것 말고는 다른 것이 하나 없습니다.형용사만 오는 경우에는 관사는 붙이지 않습니다.\n\n
+            그리고 이러한 형용사들은 우리말에서 처럼 명사의 앞에 붙어서 그 명사의 상태를 나타내기도 합니다. \n 예를 들어서 There is a <font size="13" color="#FF0000">strong </font> man\n
+            There is a pretty long young black girl <font size="13" color="#FF0000">pretty</font> (형용사를 여러 개 나열하는 경우)
+        </font>
+    </string>
+
+    <string name="btn4_2">
+        <font size="12" color="#000000">
+            형용사를 여러번 써야하는 경우에 형용사의 나열 순서를 알려드리겠습니다. 첫번째는 자기 주관에 맞는 형용사를 쓰고, 그 뒤로, \n\n
+            <font size="13" color="#FF0000">1.얼마나 큰지, 2.얼마나 오래된것인지, 3.무슨 색깔인지, 4.어디서부터온 것인지, 5.어디서 만들어진 것인지</font>\n\n
+            그 뒤에 명사가 옵니다. 예를 들면,\n <font size="10" color="#FF0000">a tall young man (1,2) 키크고 어린 남자 \n a large wooden table(1,5) 크고 나무로된 테이블\n big blue eyes(1,3) 크고 파란 눈\n an old white cotton shirt(2,3,5) 오래되고 하얀 커튼</font>\n
+            이런 식으로 형용사가 여러번 쓰여야 할때, 나열해야 하는 순서입니다.
+        </font>
+    </string>
+
+    <string name="btn5_1">
+       <font size="14" color="#000000">
+            부사도 형용사와 같이 수식(꾸며줌)으로 영어권에서도 역시나 우리나라 부사처럼 사용합니다. \n부사는 문장의 끝이나 앞에도 올 수 있습니다.이미 형용사가 명사를 수식한다고해도,
+            부사가 그 의미를 강조해서 나타낼 수 있습니다.\n\n \&apos;예를들어 엄청나게 아름다운 미녀다\&#39;라는 문장이 있다면, \&apos;엄청나게\&#39;가 부사에 해당하고,\n
+            \&apos;아름다운 \&#39;이 형용사, 명사가 \&apos;미녀\&#39;로, 이미 수식되어 있는 것을 강조해서 표현할때 사용합니다.
+        </font>
+    </string>
+
+    <string name="btn5_2">
+       <font size="14" color="#000000">
+            부사구 라는 말을 들어보신 적이 있으실 겁니다, 모르시면 지금 이해하시면 됩니다. 부사구는 동사,형용사,부사, 문장 전체를 수식하고, 시간,장소,방향,방법들을 표현하는데 쓰입니다.\n\n
+            부사는 문장의 앞이나 뒷부분에 주로 사용합니다.\n\n
+             긴 문장을 해석하는 경우에는 부사는 품사들과 문장을 강조하기 때문에, 부사구, 부사들을 모두 제외해놓고 문장을 해석하면, 그 의미가 확연하게 나타납니다.\n
+            실제로 영어를 계속해서 공부한다면, 문장의 형식이 금방 눈에 보이기 때문에 그 이후로는 문장의 품사들을 의식하면서 해석하지 않아도 됩니다. \n\n
+            지금은 의미를 파악하는데 집중 해주세요!
+        </font>
+    </string>
+
+    <string name="btn6_1">
+       <font size="14" color="#000000">
+            전치사는 종류가 굉장히 많지만, 시간,장소,방향을 나타내는 것을 가장 많이 사용하고 중요하기 때문에, 강조가 되는 것이지만, 사실 여러 의미와 종류가 있습니다.\n
+            무려 전치사가 영어에는 150가지가 되지만, 대표적인 전치사들 at,in,on,for,with,of,to들이 있습니다.\n\n
+            전치사는 명사 앞에 쓰여서, 부사가 됩니다.\n\n 즉 문장의 앞이나 뒤에 마음대로 올 수 있습니다. at은 자세한 위치나 시간을 나타낼때 씁니다.\n
+            in은 달,년,국가,긴 기간에 쓰이고, on은 날짜나 요일에 씁니다.
+
+        </font>
+    </string>
+
+    <string name="btn6_2">
+       <font size="14" color="#000000">
+            예시\n\n
+            at 3O\&apos;\&#39;clock          in may                  on sunday\n
+            at noon                     in summer               on 6 march\n
+            at dinnertime               in 1990                 on 25 dec 2010\n
+            at bedtime                  in the next centry      on Independence Day\n\n
+
+            at의 지점을 나타내는 표현     in 닫혀있지 않은 공간      on 표면(Surface)\n
+            at the corner               in the garden            on the wall\n
+            at the bus stop             in London                on the door\n
+            at the door                 in a box                 on the floor\n
+        </font>
+    </string>
+
+    <string name="btn7_1">
+        <font size="12">
+            대명사는 말 그대로 살마이나 사물의 이름을 대신해서 표현하는 품사입니다.\n\n 종류에는 사물을 대신 나타내는 it 단수를 나타낼때 쓰는 단어입니다.\n\n
+            그리고 They는 사물이나, 사람을 나타낼때(복수)형으로 쓰이고 목적어로는 Their입니다.\n\n 주로 이런 것들을 표로해서 나타냅니다만,\n\n
+            굳이 외우실 필요 없으시고 사전과 함께 문장을 해석하면서, 어느정도 익숙해지면 저절로 습득 할 수 있으십니다.\n\n
+            They 그(그것)들 Their그(그것)들의 Them그(그것)들을 They그(그것)들  Those저것들  These그것들   \n
+
+        </font>
+    </string>
+
+    <string name="btn7_2">
+        <font size="12">
+            명령을 나타내는 문장을 제외하고는 영어의 문장에는 항상 주어가 있습니다. 만약에 다른 주어가 없으면 (Dummy subject라고 불리는)There, it을 이용합니다.\n
+            대명사 There과 It이 어느경우에 쓰이는지 알아보겠습니다. <font color="#ff0000">There의 경우 첫번째 새로운 주제에 대해서 소개할때 이용합니다.</font>\n\n
+            There is a meeting this evening. It will start at seven.\n
+            There has been an accident. I hope no one is hurt\n\n
+            <font color="#ff0000">두번째 숫자, 셀수있는 양, 수량을 표현할때 사용합니다.</font>\n\n
+            There was a lot of rain last night.\n
+            There must have been more than five hundred in the audience.\n
+        </font>
+        </string>
+
+        <string name="btnn7_3">
+            <font size="12">
+            <font color="#ff0000">세번째 무언가가 어딘가에 있을때 표현할때 사용합니다.</font>\n\n
+            There used to be a playground at the end of the street.\n
+            There are fairies at the bottom of the garden.\n\n
+            <font color="#ff0000">네번째 정의할수 없는 대명사 또는 to 부정사 그리고 많은 양을 표현하는 문장에 사용합니다. </font>\n\n
+            There is nothing to do in the village.\n
+            There was plenty to read in the apartment.\n
+        </font>
+
+    </string>
+
+
+
+    <string name="btnn7_4">
+        <font size="12">
+            <font color="#ff0000">There과 함께 주어의 To 부정사를 나타내고 싶을때 for를 사용합니다.</font>\n\n
+            There is nothing for the children to do in the village.\n
+            There was nothing for them to watch on television.\n
+            There is a lot of work for you to do.\n\n
+            <font color="#ff0000">네번째 분명히 규정되어있지 않은 대명사 또는 양,량(quantity), V+ing를 표현하고자 할때 사용합니다.. </font>\n\n
+            There is someone waiting to see you.\n
+            There were a lot of people shouting and waving.\n
+        </font>
+    </string>
+
+    <string name="btnn7_5">
+        <font size="12">
+            <font color="#ff0000">구,구절이 단수형인경우 Be 동사(is)와 함께, 단수를 표현합니다. 복수형은 (are)</font>\n\n
+            There is a meeting this evening it will start at seven.\n
+            There was a lot of rain last night.\n
+            There is someone waiting to see you.\n\n
+            <font color="#ff0000">네번째 분명히 규정되어있지 않은 대명사 또는 양,량(quantity), V+ing를 표현하고자 할때 사용합니다.. </font>\n\n
+            There is someone waiting to see you.\n
+            There were a lot of people shouting and waving.\n
+        </font>
+        </string>
+
+
+    <string name="btnn7_6">
+        <font size="12" color="#000000">
+            우리나라에서 상대방을 부를때 너, 당신 이렇게 얘기 하듯이,\n\n 영어에서 상대방을 You라고 말하고 상대방이 가지고 있는 것들을 표현할때는, your(너의)라고,\n\n
+            상대가 가지고 있는 것은 Yours(너의것), 목적어로 상대방을 나타낼때 역시도 You(너,당신)를 사용합니다. 나 자신을 표현할때 쓰는 대명사는 \&apos;I\&#39;\n
+            내가 가지고 있는 것들을 표현 할 때는 my를 나를 목적어(~을,를)로 나타낼때, Me(나를)를 사용합니다. 내가 가지고있는 것들을 나타낼때는 Mine(내것)을 사용합니다.\n\n
+            그를 나타낼때 He 그의 것들을 얘기할 때는 His를 씁니다. 그녀를 나타낼때는 She 그녀의 것들을 나타낼때는 her 를 사용합니다. 그녀들이 가지고 있는 것들을 표현할때는 hers
+            표로 나타내어서 보는 것보다 이해가 쉽게 되실 겁니다.
+        </font>
+    </string>
+
+
+
+    <string name="btn8_1">
+        <font size="14" color="#000000">
+            일반동사들은 Be동사를 제외한 모든 동사들을 얘기합니다. 일반동사 중에는 Phrasal verb(구동사)라고 불리는 동사가 있는데 이 동사 뒤에는 반드시 뒤에 부사나 전치사가 함께 오게 되어있습니다.\n
+            구동사는 동사+전치사 또는 동사+부사 형식으로 함께 쓰이고 함께쓰인 동사의 의미가 완전히 새롭게 바뀝니다. \n영어 지문을 읽는 경우에 도저히 이 문장의 의미는 동사와 어울리지 않는데?
+            라는 느낌이 들면 구동사인지 의심하거나 이 동사가 이런 뜻으로 쓰이지 않았구나 하면서 다른 의미를 찾아서 그 문장의 의미를 유추해야합니다.\n
+            보통 일반 동사와 다른 의미를 가지고 있습니다.
+
+        </font>
+    </string>
+
+    <string name="btn8_2">
+        <font size="14" color="#000000">
+            그리고 우리가 구동사를 이용할때, 평소에 일반 동사처럼 보통 문장에 쓰이고\n
+            개의치않게 규칙적이거나 불규칙적입니다. 예를 들면 break down, check in, check out, take out, bring up 등.. 이것들 많고도 굉장히 많습니다.\n 구동사는 굉장히 많고, 자주쓰이기 때문에\n
+            전체적으로 모두 암기 한다는 것은 어리석은 일입니다. 의지만 사라질 뿐이지요. 문장을 차근차근 해석하면서 이게 무슨 뜻이였는지, <font color="#FF0000">기억 하는 것이 중요합니다.</font>
+             동사는 문장의 구조를 볼때 주어의 바로 뒤에 위치하게 되어있습니다. 일반동사는 말 그대로 일반, 우리가 평소에 생활할때 움직이는 행동들을 나타낼때 씁니다.\n
+        </font>
+    </string>
+
+
+
+    <string name="btn8_3">
+        <font size="14" color="#000000">
+
+            일반동사는 또, 자동사와 타동사로 나뉘는데,\n
+            간단히 이해만 하시면 외울 필요 없습니다. 예를들어서, \&apos;나는 뛴다.\&#39;라는 문장과 \&apos;나는 책을 봅니다.\&#39;라는 문장이 있습니다. \&apos;나는 뛴다\&#39;라는 문장은 주어 하나와\n
+            동사하나로 충분히 상대방이 무슨 말을 하려는지 충분하게 이해할 수 있고, 평범하게 보이는 문장입니다. 하지만, 이 문장에 목적어를 붙이면 굉장히 자연스럽지 않은 문장이 됩니다.\&apos;나는 학교를 뜁니다.\&#39;\n
+            이렇게 말 같지도 않은 문장이 됩니다..보통 이런 문장 뒤에는 방향이나 위치를 나타내는 보충 설명이 필요합니다.(보충설명을 하는 말을)보어 라고 합니다.들어 보셨을 겁니다.
+        </font>
+    </string>
+
+    <string name="btn9_0">
+       <font size="12" color="#000000">
+            즉 자동사는 주어와 동사가 오면 뒤에 보어를 붙여서, 그 의미를 더 자세히 표현해야 합니다. 하지만 타동사는 목적어가 있기 때문에, 무엇을 어떻게 한다는 것이 뚜렷하게 의미가 전달이 되기 때문에, 보어를 붙여도 되지만\n
+            굳이 필요하지는 않습니다. 일반동사를 1인칭(자신), 2인칭(상대방)을 말하는 경우에는 동사에 변형이 없지만,3인칭(타인)에 대해서 예기할 때에는 동사가 변형이 됩니다. 예를 들면, Do는 Does로, Have는 Has로,\n
+            일반동사의 대부분은 동사뒤에 es를 붙이던지 -s를 붙여서 3인칭의 행동을 표현합니다. (조동사가 동사 앞에오는 경우에는 변하지 않습니다.)조동사가 무엇인지 다음부분에 설명하겠습니다.
+        </font>
+    </string>
+
+    <string name="btn9_1">
+      <font size="14" color="#000000">
+            조동사는 동사를 보조 해준다고 해서 조동사라고 불립니다. 우리말로 먼저 예시를 들어보지요, 누군가가 \&apos;영어를 할 수 있습니까?\&#39;라고 물었을때, 동사는 \&apos;하다\&#39;이고, \&apos;할 수있다.\&#39;라는 말은\n
+            가능성을 묻는 말이라는 것을 아실 겁니다, 이와 같이 ~할 수있다. ~해야한다, ~할 지도 모른다, ~일 것이다,~할 것이다 등등.. 모두 보면 동사와 함께 온다는 것을 확인하실 수 있을 것입니다.<font size="14" color="#FF0000"> 조동사를 활용할때는\n
+            주어+조동사+동사 순으로 오는데, 반드시 뒤에는 동사원형(동사의 원래형태)가 와야한다는 것을 명심하셔야합니다.</font> 전에 설명했었던 주어의 인칭이 바뀌어도, 동사원형이 온다는 것을 잊지마세요.
+        </font>
+    </string>
+
+    <string name="btn9_2">
+        <font size="14" color="#000000">
+           예를 들면,\n
+               Do     you   have    a    dinner?(의문문) Do가 조동사로 쓰여서, 이런식으로 쓰입니다.\n
+            (조동사) (주어) (동사)  (관사)  (명사) 저녁 먹었니?\n
+            I can do learning English well 나는 영어 배우는것을 잘 할 수있다.\n
+            he might think i\&apos;stupid. 그는 내가 바보라고 생각할 것이다.
+
+
+        </font>
+    </string>
+
+    <string name="btn10_1">
+        <font size="13" color="#000000">
+            접속사의 개념과 무엇이 있는지 알아보겠습니다.접속한다는 말의 의미를 아시나요?\n 접속은 서로 맞대어 이은다는 뜻으로, 접속부사(앞의 체언[명사,대명사,수사]이나 문장의 뜻을 뒤의 체언이나 문장에 이어주면서 뒤의 말을 꾸며주는 부사)와
+            구(phrase)와 구, 절(clause)과 절,또는 문장(sentence)과 문장을 이어주는 구실을 하는 문장 성분입니다.\n\n 절<font size="12" color="#FF00FF">(주어와 동사가 갖춰진 문장 구성 성분)</font>,구<font size="12" color="#FF00FF">(동사 외의 낱말들을 두 개 이상으로 이뤄진 문장 성분)</font>,\n\n
+            문장에는 절(clause)가 있는데, 복합 문장(Compound sentences)에는 어절이 두개 또는 세개가 올 수있습니다.
+        </font>
+    </string>
+    <string name="btn10_2">
+        <font size="13" color="#000000">
+            등위 접속사(coordinating conjunction)에 의해서 복합 문장이 이루어 지게됩니다.\n\n 예를들면, Tom <font color="#FF0000">and</font>,John. sweet <font color="#FF0000">and</font> beauty,
+            go  <font color="#FF0000">and</font> run, to be  <font color="#FF0000">or</font> not to be 에서 and는 그리고의 뜻을, Tom and john의 경우 명사와 명사를 잇고, seet and beauty 형용사와 형용사,\n
+            go and run 동사와 동사, to be or not to be 는 to부정사와 to부정사 부정 이런식으로 같은 품사들을 접속할 뿐더러, 문장과 문장을 이을때, 문장A <font color="#FF0000">접속사</font> 문장B 이런 식으로 접속하는 방법\n
+            접속사 문장A  <font color="#FF0000">,</font> 문장B 이런식으로도 접속이 가능합니다.
+        </font>
+    </string>
+
+    <string name="btn10_3">
+        <font size="13" color="#000000">
+            가장 보편적으로 사용하는 접속사는 and - but - or - nor - so - then - yet 등 있습니다.\n 복잡한 문장(Complex sentences)을 해석하기 전에는 그 문장에 들어있는 핵심 어절 그리고 한가지 또는 여러가지
+            부사절들이 있습니다.\n\n  부사절들은 보통 핵심 절 뒤에 옵니다. 예를 들면, his father died when he was young 이라는 문장에서 his father 은 핵심 절, when은 접속사, he was young이라는 문장은 부사절입니다.\n\n
+            몇몇의 종속(subordinate)어절은 핵심 절 앞에 올 수 있습니다. 예를 들면, Although a fre snakes are dangerous most of them are quite harmless. Although(subordinating conjunction)종속 접속사 some snakes are dangerous (adverbial clause)부사 절\n
+            most of them are harmless(main clause) 핵심 절,
+        </font>
+    </string>
+
+    <string name="btn10_4">
+        <font size="13" color="#000000">
+           우리가 문법을 배울때는 이런식으로 세세하게 문법을 익히지 않았기 때문에 다 커서 지금 영어를 배워야하는 우리는 영어의 문법을 이해하기 쉽게 만든 문법용어의 뜻도 말이 좀 어렵습니다.\n\n
+            영어에서는 Comma(,)를 꼼꼼하게 살펴보고, 문장을 끊어 읽어야 쉽게 그 의미를 파악할 수 있습니다.\n\n 접속사는 종류에 따라서 각기 뜻이 다르기 때문에, 문장의 맥락과 의미들을 비교해서, 무슨 의미로 쓰였는지
+            유추해야합니다.\n 우리말에도 한 단어에 한가지 의미만 있는 것이 아니기 때문에, 사전을 찾아서 보고 어디에 무슨 의미로 쓰였는지 기억하는 것이 아주 중요합니다.
+
+        </font>
+    </string>
+
+    <string name="btn10_5">
+       <font size="14" color="#000000">
+            흔히 쓰이는 접속사들을 모아봤습니다.\n\n
+            상대적인 것을 나타내는 절 although, though, even though, while\n
+            이유를 나타내는 절 because, since, as\n
+            장소를 나타내는 절 where, wherever, everywhere\n
+            보어로 쓰이는 절 so thatm so, because + want\n
+            결과를 나태는 절 so thatm so~ that, such~that\n
+            시간을 나타내는 절 when,before,after, since, while, as, as soon as, by the time, until\n
+
+        </font>
+    </string>
+
+    <!--간단한 문장 해석 11-->
+    <string name="btn11_1">
+        <font size="13">
+        This news is from Australia. It is about a sheep. His name is Chris.\n
+        Chris lives in the wild. People do not shear him. His wool just grows and grows.\n
+        Chris gets really big. He has 40 kilograms of wool on him. Normally, he has 4 to 5 times less wool.\n
+        Chris is in danger. People must shear him. Five men make him sleep and they shear him.\n
+        Difficult words: in the wild (in nature not changed by people), shear (to cut wool).\n\n
+        -출처- https://www.newsinlevels.com/products/very-wooly-sheep-level-1/-
+        </font>
+    </string>
+
+    <string name="btn11_2">
+        <font size="13">
+            This news is from Australia. It is about a sheep. His name is Chris.\n
+            이 뉴스는 Be+from (~로부터 이다.) 호주출처다. 그것(뉴스)는 한 마리 양에 대한것이다. 그의 이름은 Chris 이다.\n
+            주어 This news, Be동사(상태,정의) + from + 명사 전치사 from은 위치의 의미로 명사와 함께, ~로부터 라는 의미로 news가 어디서 왔는지 설명합니다.\n
+            Chris lives in the wild. People do not shear him. His wool just grows and grows.\n
+            Chris는 야생안에서 살고있다. 사람들은 do not(부정 강조) 그의 털을 깎지 않습니다. 그의 양털은 단지 자라고 자랍니다.\n
+            명령문을 제외한 문장은 주어가 먼저 옵니다. 그러므로 Chris는 주어로 쓰였습니다. lives는 동사로 주어가 하나 이기때문에, 동사끝에 s가 함께왔습니다.\n
+            in the wild 전치사 in과 the wild 명사가 함께 쓰여서 부사가 되었습니다. 전치사+명사는 부사로 in the wild라는 구를 지워도 문장의 의미는 이해 할 수있습니다\n
+        </font>
+    </string>
+
+    <string name="btn11_3">
+        <font size="13">
+            in the wild 전치사 in과 the wild 명사가 함께 쓰여서 부사가 되었습니다. 전치사+명사는 부사로 in the wild라는 구를 지워도 문장의 의미는 이해 할 수있습니다.\n
+            His wool은 주어 just 는 부사(없어도 의미가 통합니다.) grows and grows (grow지만 His wool 그의 양모가 단수로 쓰였기때문에 동사에 s가 붙습니다.)\n
+            양모는 셀수 없기때문에 s가 않쓰이지 않나 하시는데, 지금의 경우는 그의 털 갯수에 대한 이야기가 아니라 양모 자체에대한 이야기를 하고있기 때문입니다.\n
+            grows and grows  등위접속사 and가 쓰였기 때문에, 동사 and 동사가 쓰일 수 있습니다. Chris gets really big. He has 40 kilograms of wool on him. Normally, he has 4 to 5 times more wool.\n
+            위와 같은 이유로 단수주어에 동사가 왔기 때문에 s가 붙습니다. really(부사) big 큰(형용사) Chris gets really big. 크리스는 정말로 커졌다. get이 형용사와 함께쓰여도 상태를 설명할 수있습니다.\n
+            쓰이는 방법과 의미가 많기때문에 자주 쓰이는 동사입니다.
+        </font>
+    </string>
+
+    <string name="btn11_4">
+        <font size="13">
+        He has 40 kilograms of wool on him. 그는(대명사) has(3인칭과 단수형)가지다,소유하다, 40 kilograms of wool of가 소유의 의미로 쓰여서 40kg의 양모\n
+        를 가지고있다. on him 전치사 +명사입니다. 부사입니다. 그에게 얹혀있다 이렇게 의미하면됩니다. 이어서 Normally, he has 4 to 5 times less wool.\n
+        Normally(부사) 보통, 그는 가지고있습니다. 4~5 배의 적은 양모를. Chris is in danger. People must shear him. Five men make him sleep and they shear him.\n
+         Chris 주어 is Be동사입니다.(3인칭 단수이기 때문에) in danger 전치사+명사입니다. 부사로 쓰였습니다. in이 안쪽 안의 의미를 내포하고 있기 때문에 위험 속에 있다 라고 의미됩니다.\n
+        People must shear him. 사람들은 must(조동사) 반드시~해야 한다라는 의미로 동사 앞에 먼저쓰입니다. 사람들은 반드시 깎아야합니다 그를(그의 털을 반드시 밀어야한다는 의미).
+        웹사이트 https://www.newsinlevels.com/products/very-wooly-sheep-level-1/-에 접속하시면 난이도 별 지문을 읽으실 수 있습니다. 수고하셨습니다.
+        </font>
+    </string>
+
+    <string name="btn11_5">
+        <font size="13">
+            in the wild 전치사 in과 the wild 명사가 함께 쓰여서 부사가 되었습니다. 전치사+명사는 부사로 in the wild라는 구를 지워도 문장의 의미는 이해 할 수있습니다.\n
+            His wool은 주어 just 는 부사(없어도 의미가 통합니다.) grows and grows (grow지만 His wool 그의 양모가 단수로 쓰였기때문에 동사에 s가 붙습니다.)\n
+            양모는 셀수 없기때문에 s가 않쓰이지 않나 하시는데, 지금의 경우는 그의 털 갯수에 대한 이야기가 아니라 양모 자체에대한 이야기를 하고있기 때문입니다.\n
+            grows and grows  등위접속사 and가 쓰였기 때문에, 동사 and 동사가 쓰일 수 있습니다. Chris gets really big. He has 40 kilograms of wool on him. Normally, he has 4 to 5 times less wool.\n
+            위와 같은 이유로 단수주어에 동사가 왔기 때문에 s가 붙습니다. really(부사) big 큰(형용사) Chris gets really big. 크리스는 정말로 커졌다. get이 형용사와 함께쓰여도 상태를 설명할 수있습니다.\n
+            쓰이는 방법과 의미가 많기때문에 자주 쓰이는 동사입니다.
+        </font>
+    </string>
+
+    <!-- 현재 진행형-->
+    <string name="btn12_1">
+        <font size="12" color="#000000">
+            현재진행형에 대해서 알아보겠습니다. 현재진행형의 의미는 말 그대로 현재부터 계속 진행중인 것을 뜻하는데, 쓰임이 여러가지가 더 있습니다.\n\n
+            현재진행형 시제는 현재시제 동사 be와 현재분사(-ing형태)의 동사로 변형이 됩니다. (be + V+ing) <font color="#FF0000>">1. 현재 진행형 시제는 현재에 대해 얘기 할때 사용합니다.</font> \n\n
+            말하는 순간에도 일어나는 무언가에 대해서, 예를들면, I am just leaving work.I will be home in an hour. 난 지금 막 일하러간다. 한 시간안으로 집에 올거야.\n\n
+            Please be quiet. The children are sleeping. 조용히해주세요. 애들이 자고있습니다.\n\n
+        </font>
+    </string>
+
+    <string name="btn12_2">
+       <font size="12" color="#000000">
+            <font color="#FF0000>">1-1. 주어진 시간 이후 또는 이전부터 일어나는 무언가에 대해 얘기할때,</font>  When i get home the children are doing their homework.\n\n
+            내가 집에 갔을때 아이들은 집에서 숙제를 하고있다. At eight O\&apos;clock we are usually having breakfast. 8시에 우리는 보통 아침밥을 먹어요.\n\n
+            <font color="#FF0000>">1-2. 우리가 생각하는 무언가가 일시적인 것인 경우,</font> Michael is at university. He is studying history 미첼은 대학교에있다. 그는 역사 공부를 하고있다.(일정시간)\n\n
+            학교에 있는 동안 역사공부를 하고있는 것으로, 현재진행형을 씀. I am working in London for the next two weeks 나는 런던에서 다음 2주동안 일을 한다.(정해진 기간)\n\n
+        </font>
+    </string>
+
+    <string name="btn12_3">
+        <font size="12" color="#000000">
+            <font color="#FF0000>">1-3. 새롭고 이전의 상태와 대조를 이루는 무언가에 대해서 쓰는 경우,</font>  \n
+            These days most people are using email instead of writing letters. 요즘엔 대부분 사람들이 편지를 쓰는 것 대신에 이메일을 사용한다. (이전의 상태와 대조를 이뤄서 사용이됨)\n\n
+            What sort of clothes are teenagers wearing nowadays? What sort of music are they listening to? 요즘에는 무슨 일종의 옷들을 십대들은 입나요? 무슨 일종의 음악을 그들은 듣나요?\n\n
+            이전과 다르게 요즘은 뭘 입고 뭘 듣는지 묻는경우라서 쓰임.\n\n
+            <font color="#FF0000>">1-4. 무언가가 바뀌거나 자라거나 개발되는 것을 나타내기 위해</font> \n\n
+            The children are growing quickly 애들이 빨리 큰다.\n
+        </font>
+    </string>
+
+    <string name="btn12_4">
+        <font size="12" color="#000000">
+            The climate is changing rapidly 기후가 급격히 변한다.\n\n
+             Your English is improving 너의 영어실력은 향상되고있다.\n\n
+            <font color="#FF0000>">1-5. 다시 생기고, 또 생기는 무언가에 대해 말할때,</font> \n\n
+            It is always raining in London. 런던에서 항상 비가 내린다.\n\n They are always arguing. 그들은 항상 말다툼한다. \n\n George is great. He is always laughing. 조지는 대단하다. 그는 항상 웃는다.\n\n
+
+        </font>
+    </string>
+
+    <string name="btn12_5">
+        <font size="12" color="#000000">
+            <font color="#FF0000">2.미래에 대해 이야기할때 현재진행형을 씁니다.</font>\n\n
+
+            <font color="#FF0000">2-1. 무언가가 마련되어있거나, 계획되어 있는 것에 대해서\n\n</font>  Mary is going to a new school next term. 마리는 다음 학기에 새로운 학교에 진학한다.\n
+            What are you doing next week? 다음주에 뭐해여??\n 이성이 물어봐줬으면..하는 문장입니다... 가까운 미래에 대해서도 씁니다.\n\n
+
+            <font color="#FF0000">3. 과거에 대해서 이야기할때도 (과거)진행형을 씁니다.\n\n</font>
+
+            It was just after ten. I was watching the news on TV. 10 후였다. 나는 TV에서 뉴스를 시청했다.\n\n
+
+        </font>
+    </string>
+
+    <string name="btn12_6">
+       <font size="12" color="#000000">
+            <font color="#FF0000">3-2. 과거에 또 다른 행동이 이전과 이후에 일어날때</font>\n\n
+            He broke his leg when he was playing rugby. 그는 그의 발이 부러졌다, 그가 럭비를 할때 \n(과거에 무슨 일이 있었는데 그때가 뭘 하고있던 경우)\n\n
+            She saw Jim as he was driving away 그녀는 Jim을 봤다 그가 차를 몰고 떠나는 중에(그가 차를 몰고 어딜 가고있는 예전 상황을 그녀가 그 때 본 것)\n\n
+            모두 과거의 과거에 진행중이던 일을 나타낼때, 진행형이 쓰인 경우입니다.
+            다음 부분에서는 현재분사에 대해서 알아보겠습니다.
+        </font>
+    </string>
+
+
+
+    <string name="btn13_1">
+        <font size="12" color="#000000">
+            현재완료에 대해서 알아보겠습니다. 보통 현재완료는 경험,완료,계속,결과를 나타낼때 주로 쓰이는데, 영어권에서 나타내는 현재완료형에 대해서 자세하게 알아보겠습니다.\n\n
+            <font color="#FF0000" size="15">현재완료는 일반 동사 have와 동사의 과거분사형이 같이 와서 현재완료 시제를 표현합니다.\n</font> 현재완료형이 있으면 현재완료 진행형도 있겠죠?\n\n
+            <font color="#FF0000" size="15">현재완료 진행형은 have(주어가 복수일때) 또는 has(주어가 단수일때,3인칭) + been + V-ing 형태로 표현합니다.</font>\n\n
+            보통 현재완료 진행형을 밑에 처럼 이용합니다 She has been living in Liverpool all her life, it is been raining for hours.
+            현재완료형의 쓰임이 여러가지가 있습니다. 몇가지 예를 들어보면,
+        </font>
+    </string>
+
+    <string name="btn13_2">
+        <font size="12" color="#000000">
+            <font color="#FF0000" size="15">1.무언가가 과거에 시작했거나 현재까지 계속이어져 올때 사용합니다.(위에서 언급한 계속)</font>\n\n
+            예를 들자면, They have been married for nearly fifty years.\n 그들은 결혼생활을 한지 거의 50년이 되어간다. She has lived in Liverpool all her life. 그녀는 Liverpool 에서 그녀의 평생을 살고있다.\n\n
+
+             <font color="#FF0000" size="15">2.이전에 몇 번 무언가를 끝냈거나 무언가를 계속 할 때 씁니다.</font>\n\n
+            I have played the guitar ever since I was a teenager. 내가 십대였던 이후로 줄 곧 기타를 치고있다.\n
+            He has written three books and he is working on another one.\n 그는 세권의 책을 쓰고 다른 하나를 또 작업하고 있다.\n
+            I have been watching that programme every week. 나는 매 주 그 프로그램을 보고있다.
+
+        </font>
+    </string>
+
+    <string name="btn13_3">
+        <font size="12" color="#000000">
+            <font color="#FF0000" size="15">3.since 절을 자주 이용해서, 과거에 무언가를 시작했다는 것을 표현합니다. </font>\n\n
+            They have been staying with us since last week. 그들은 지난 주 이후로, 우리와 함께 머물고있다.\n\n
+            I have worked here since I left school. 나는 이곳에서 일하고있다. 학교를 떠난 이후로부터 \n\n
+            I have been watching that programme every week since it started \n나는 매주 저 프로그램을 보고있다. 그것이 시작한 이후로부터
+
+        </font>
+    </string>
+
+    <string name="btn13_4">
+        <font size="12" color="#000000">
+            <font color="#FF0000" size="15">4.우리의 경험들에 대해 현재까지 이야기 할때 씁니다.(위에언급 한 경험)</font>\n\n
+            <font color="#FF0000" size="15">Tip. 현재까지 우리의 경험에대해 이야기할때 언제나 부사를 자주 사용합니다.</font> 예를들면,\n\n My last birthday was the worst day I have ever had.(ever이 부사로 쓰임)\n
+            내 마지막 생을은 최악의 날이였다. 내가 여태 해왔던 것중에.\n
+            또 부정은 표현할때는 never 를 사용합니다. 예를들면,\n\n A:Have you ever met George? A:조지를 이전에 만난적이 있니?\n\n B:Yes, but I have never met his wife. B:응, 하지만, 그의 아내는 본 적이 없어.\n\n
+
+        </font>
+    </string>
+
+    <string name="btn13_5">
+        <font size="12" color="#000000">
+            <font color="#FF0000" size="15">5.과거에 무슨 일이 있었는데, 그 일이 이야기에 대한 중요한 이유일때.\n\n</font>
+            I can not get in the house. I have lost my keys. 집안에 들어갈 수 없었어. 집 키를 잃어 버렸었거든..\n\n Teresa is not at home. I think she has gone shopping.\n 테레사는 집에없었어. 내생각엔 그녀는 쇼핑나갔어\n\n
+            I am tired out. I have been working all day. 나 완전 녹초가됬어. 나 하루 종일 일했거든..
+
+        </font>
+    </string>
+
+    <string name="btn13_6">
+       <font size="12" color="#000000">
+            <font color="#FF0000" size="15">6.현재완료형의 be를 누군가가 장소를 떠나고 돌아올 때 사용한다.</font>\n\n
+            A:Where have you been? 어디 갔다왔었어?\n\n
+            B:I have just been out to the supermarket 나 방금 슈퍼마켓 다녀왔어.\n\n
+            A:Have you ever been to San Francisco? 샌프란시스코에 가본 적 있어??(경험+been)\n\n
+            B:No. but I have been to Los Angeles. 아니 하지만 로스엔젤레스에는 가본 적이 있어.(경험+been)\n
+            <font color="#FF0000" size="15">가서 돌아오지 않을 때는 have/has gone 을 이용합니다.</font> 예를 들면,\n
+        </font>
+    </string>
+
+    <string name="btn13_7">
+        <font size="12" color="#000000">
+
+            A:Where is Maria? I have\&apos;t seen her for weeks. 마리아 어디갔어? 몇주동안 그녀를 보지못했어.\n
+            B:She is gone to Paris for a week. She \&apos;ll be back tomorrow.\n 그녀는 파리로 일주일간 떠났어. 내일 그녀 돌아올거야.\n\n
+
+            <font color="#FF0000" size="15">7.현재완료형은 시간과 함께 부사구는 최근의 과거를 나타냅니다.</font>\n Just, Only just, recently를 주로 사용합니다.\n\n
+            Scientists have recently discovered a new breed of monkey.\n 과학자들은 최근에 새로운 타입의 원숭이를 발견했습니다.\n\n
+            We have just got back from our hoildays. 우리는 휴가로부터 금방 돌아왔습니다.\n
+
+        </font>
+    </string>
+
+    <string name="btn13_8">
+       <font size="12" color="#000000">
+            <font color="#FF0000" size="15">부사적 어구는 현재를 포함합니다.</font>\n ever(질문에서), so far, until now, up to now, yet (질문이나, 부정에 사용).\n\n
+            Have you ever seen a ghost? 귀신 본적 있어?\n
+            Have you finished your homework yet? 아직도 숙제 못했니?\n
+            No. so far I have only done my history 아니, 지금까지 역사 숙제 하나만 끝냈어.\n\n
+            <font color="#FF0000" size="15">현재완료형의 부사구는 과거에 끝냈던 것을 나타낼때는 사용하지 않습니다.\n\n</font>
+            I have seen that film yesterday(x) I have seen that film (o)\n
+            We have just bought a new car last week(x) We have just bought a new car (o)\n
+            When we were children we have been to California.(x) We have been to California(o)\n
+
+        </font>
+    </string>
+
+
+    <!--to 부정사-->
+
+    <string name="btn14_0">
+       <font size="12" color="#000000">
+            <font color="#FF0000" size="15">To 부정사의 개념과활용</font> 전치사의 to가 영어 문장의 어순을 무시하고 동사와 함께 쓰여서, 곤란 했던 경험이 있으실 겁니다.\n\n
+            To부정사라고 영어 수업때 한 번쯤 들어 보셨을 겁니다. 부정사의 의미는 품사가 정해져 있지 않다는 이야기입니다. 그래서, 여러 방식으로 쓰일 수있는데 알아보겠습니다.\n
+            <font color="#FF0000" size="15">첫번째 목적을 표현하고자 할때 씁니다.</font>예를 들자면,\n
+            1.He bought some flowers to give to his wife 그는 꽃들을 사서 그의 아내에게 주었다.(주기위한 목적)\n\n
+            2.He locked the door to keep everyone out 그는 모두들 밖에 있게 하기위해서 문을 잠갔다.(밖에 있게하기 위한 목적)\n
+            이렇게 행동에 대한 목적이 있는 경우 to를 사용합니다.
+
+
+        </font>
+    </string>
+
+    <string name="btn14_1">
+        <font size="12" color="#000000">
+            <font color="#FF0000" size="15">두번 째, 느낌이나 생각, 표현하고자 하는 동사 뒤에 쓰입니다.\n\n</font>
+            예를들면 choose,decide,expect,hate,hope,intend,like,love,mean,plan,prefer,remember,want,would like, would love,agree,promise,refuse\n
+           1. They decide to start a business together. 그들은 함께 사업하는 것을 마음 먹었다.\n\n
+           2. Remember to turn the light out. 불끄는 것을 기억해라.\n\n
+            <font color="#FF0000" size="15">세번째, 몇몇 동사들은 부정사와 직접적인 목적어에 함께 쓰입니다.\n\n</font>
+            예를들면 advise,ask,encourage,invite,order,persuade,remind,tell,warn,expect,intend,would prefer,want,would like\n
+        </font>
+    </string>
+
+    <string name="btn14_2">
+       <font size="12" color="#000000">
+            Please ask me to help, when you need someone else 누군가가 필요할때, 내게 도움을 물어라.
+            I told her to do washing the dishes. 나는 그녀에게 설거지하라고 얘기했다.\n
+            <font color="#FF0000" size="15">네번 째, 상태를 나타내는 경우(2형식)\n\n</font>
+            주어+Be동사+형용사+to 부정사 형식으로, 상태에 대한 이유를 설명할때 사용합니다. 예를들면 dissapointed,glad,sad,happy,anxious,pleased,surprised,\n
+            proud,unhappy.\n\n
+            I am glad to see you again. 너를 다시 봐서 기뻐 (이유)\n\n
+            I am very happy to use this Application  이 앱을 이용해주셔서 매우 행복합니다.(이유)\n\n
+        </font>
+    </string>
+
+    <string name="btn14_3">
+        <font size="12" color="#000000">
+            <font color="#FF0000" size="15">다섯 번째, 다른 형용사 뒤에 to부정사가 함께 쓰여서 다른 의미를 나타내기도 합니다.\n\n</font>
+           able,due,keen,unlikely,prepared,willing,unable,eager,likely,ready,unwilling.\n\n
+            1.Unfortunately i was unable <font color="#FF0000" size="15">to work</font> for over a week. 안타깝게도 나는 한 주 이상 일할 수없었다.\n\n
+            2.I am really tired, i am ready <font color="#FF0000" size="15">to go</font> to bed. 난 이미 지쳤어, 잘준비할거야.\n\n
+            <font color="#FF0000" size="15">여섯 번째 4번과 마찬가지로 상태를 나타내는 문장 뒤에 와서 의견을 표현하기 위해서 표현합니다.\n\n</font>
+            이것도 주로 2형식 문장에서 쓰이는데요. 예를들면, difficult,easy,possible,impossible,hard,right,wrong,kind,nice,clever,silly,foolish.
+
+        </font>
+    </string>
+
+    <string name="btn14_4">
+        <font size="12" color="#000000">
+            1. It is easy to play the piano 피아노 치는것은 쉽다.\n\n
+            2. Learning english is difficult to beginner. 영어 배우는것은 초보자에게 어렵다.\n\n
+            <font color="#FF0000" size="15">여섯 번째 다른 형용사와 전치사 of가 같이쓰여서\n\n</font>
+           전치사 of를 형용사와 함께 사용하기도 합니다. 예를들면, It is kind of you to help. 도와주니 고맙다.\n\n
+            1. It would be silly of him to spend all his money. 그의 모든 돈을 사용하는것은 그에게 바보같은 짓이였을거야.\n
+
+        </font>
+    </string>
+
+    <string name="btn14_5">
+       <font size="12" color="#000000">
+            <font color="#FF0000" size="15">일곱 번째, 추상적인 단어의 뒤에와서 수식해줄때 씁니다.\n\n</font>
+            종류는 ability,desire,need,wish,attempt,failure,opportunity,chance,intention.\n
+            1. I have no desire to be rich. 그는 부자가 되기위한 욕구가 없다.\n
+           2.They gave him an opportunity to escape. 그들은 그에게 도망갈 기회를 주었다.\n
+
+             <font color="#FF0000" size="15">여덟 번째, 정확하지 않는 대명사 뒤에서 쓰입니다.\n\n</font>
+            1. When i am traveling I always take something to read. 여행하고있을때, 나는 항상 읽을 것을 챙긴다.\n
+            2. I was all alone I had no one to talk to. 나는 혼자있었다. 아무도 나와 얘기할 사람이 없었다.\n
+            3. There is hardly anything to do in most of these small town. 거의 할 수 있는게 없었다. 이 작은 타운의 대부분에서
+
+        </font>
+    </string>
+
+    <!--Ving-->
+
+    <string name="btn15_0">
+       <font size="12" color="#000000">
+            <font color="#FF0000" size="15">동사+ing형\n\n</font>
+            V+ing형에 대해서 알아보겠습니다. 영어에서는 V+ing를 명사로 이용해서, 동사 뒤에 오기도 합니다. 예를들면,\n
+            1. I love dancing. dancing is good for health. 춤추는것을 좋아합니다. 춤추는건 건강에 좋습니다. 와 같이   <font color="#FF0000" size="15">명사가 쓰일 수 있는 위치에 위치합니다.</font>\n\n
+            그리고 이 형태는 항상 셀수 없는 명사에 이용이됩니다. 이 형태에도 여러가지 의미가 존재하는데요, 쓰임을 보자면,\n\n
+           <font color="#FF0000" size="15">Ving형이 형용사로도 쓰입니다.\n\n</font>
+        </font>
+    </string>
+
+    <string name="btn15_1">
+       <font size="12" color="#000000">
+            예를들면, The main problem today is rising prices. 오늘 가장중요한 문제는 상승하고있는 가격이다. \n
+            That programme was really boring 그 프로그램은 정말 지루하다.\n\n
+            동사가 Ving와 형용사로 변형이 되면서 동사를 따르는 여러 패턴의 동사(하고있는 행위)를 가집니다.\n\n
+            예를 들면,  <font color="#FF0000" size="15">목적어로 쓰이는 경우</font>\n
+            1. I like playing tennis. 나는 테니스 플레이하는 것을 좋아해.\n\n
+            2. can you Imagine living on the moon?. 달에서 살고있는 것을 상상할수있니?.
+        </font>
+    </string>
+
+    <string name="btn15_2">
+       <font size="12" color="#000000">
+          <font color="#FF0000" size="15">부사로 쓰이는 경우</font>\n
+            1. You can earn a lot of money by working hard. 열심히 일하는 방법으로 너는 많은 돈을 벌 수있어.\n\n
+            2. There were several people waiting for the bus. 버스를 기다리는 몇몇사람들이 있었어.\n\n
+            <font color="#FF0000" size="15">접속사로 쓰이는 경우</font>\n
+            I heard someone saying that ~~\n\n
+
+        </font>
+    </string>
+
+    <string name="btn15_3">
+        <font size="12" color="#000000">
+            정리해보자면,\n\n
+             <font color="#FF0000" size="15">명사가 쓰일 수 있는 위치에 위치합니다.</font>\n
+            <font color="#FF0000" size="15">Ing형식의 명사는 동사의 주어로 사용</font> Playing piano is easy. (주어로 쓰인 경우)
+            <font color="#FF0000" size="15">Ing형식의 명사는 동사의 목적어로 사용</font>\n
+             <font color="#FF0000" size="15">Ing형식이 형용사로 사용</font>\n
+            <font color="#FF0000" size="15">부사로 쓰이는 경우</font>\n
+             <font color="#FF0000" size="15">접속사로 쓰이는 경우</font>\n
+        </font>
+    </string>
+
+    <string name="btn15_4">
+       <font size="12" color="#000000">
+            Ving와 거의 함께오는 동사는 admit,like,hate,start,avoid,suggest,enjoy,dislike,begin,finish등이 있고\n
+            명사로도 아까 쓰일 수 있다고 말씀드렸습니다. 그래서 전치사의 목적어로 쓰이기 때문에 이런 문장에도 가능합니다.\n
+            Some people are not interested in learning english. 몇몇 사람들은 영어 배우는 것에 관심이 없다.(전치사 in 뒤에 위치해서 목적어로 쓰였기 때문에.)\n\n
+            형용사로 쓰이는 Ving는 명사 앞에도 올 수있습니다. 예를들면,\n
+            I read an interesting article in the newspaper today. 오늘 신문에 있는 관심있는 글을 읽었다. \n\n
+            we saw a really exciting match on sunday. 우리는 일요일에 정말로 흥미로운 경기를 봤다.\n\n
+        </font>
+    </string>
+
+    <string name="btn15_5">
+        <font size="12" color="#000000">
+            가장 흔히 명사 앞 형용사 Ving로 쓰이는 것은 amusing, worrying,disappointing,interesting,shocking,exciting,boring,surprising,frightening,tiring,annoying\n
+            명사 뒤에 무품사(부정사)로 오기도 합니다.\n
+            1. Who is that man standing over there? 저쪽에 서있는 남자 누구야?\n\n
+            2. The boy talking to Angela is her younger brother. 안젤라랑 이야기하고있는 그 소년은 그녀의 남동생이다.\n\n
+            그리고 특히 동사 뒤에 예를들면 see, watch, hear, smell 등...
+        </font>
+    </string>
+
+    <string name="btn15_6">
+        <font size="12" color="#000000">
+            예를들면, I heard someone playing the piano. 난 누군가가 피아노 연주하는 것을 들었어.\n\n
+            I can smell something burning. 난 무언가가 타고있는 것을 맡을 수있어.\n\n
+            이렇게 V+ing가 여러가지 의미로쓰입니다. 저절로 외울 수있는 방법은 문장을 많이 해석하면서 그것이 어떻게 쓰였는지 보면서 이해합시다.
+        </font>
+    </string>
+
+
+
+    <string name="btn7_4" />
+    <string name="btn7_5" />
+    <string name="btn7_6" />
+    <string name="btn7_3" />
+
+</resources>

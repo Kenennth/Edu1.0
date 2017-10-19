@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kenneth1993.education">
+
+    <uses-permission android:name="android.permission.INTERNET"></uses-permission>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/school"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/school"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+        android:largeHeap="true">
+
+
+        <meta-data android:name="com.google.android.gms.version" android:value="@integer/google_play_services_version" />
+
+
+        <activity
+            android:name=".LoadingScreen"
+            android:screenOrientation="landscape">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainScreen"
+            android:screenOrientation="landscape"
+            android:theme="@style/Theme.AppCompat.NoActionBar" />
+        <activity
+            android:name=".WayToPlay"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Application"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Application_ListView_Atschool"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_01"
+            android:screenOrientation="landscape" />
+
+        <activity android:name=".Application_ListView_Atschool1"
+            android:screenOrientation="landscape"></activity>
+
+        <activity android:name=".Application_ListView_Atschool2"
+            android:screenOrientation="landscape"></activity>
+
+        <activity android:name=".Application_ListView_Atschool3"
+            android:screenOrientation="landscape"></activity>
+
+        <activity android:name=".Application_ListView_Atschool4"
+            android:screenOrientation="landscape"></activity>
+
+        <activity android:name=".Application_ListView_AtStreet"
+            android:screenOrientation="landscape"></activity>
+
+        <activity android:name=".Application_ListView_AtRestaurant"
+            android:screenOrientation="landscape"></activity>
+
+        <activity android:name=".Application_ListView_AtBank"
+            android:screenOrientation="landscape"></activity>
+
+        <activity android:name=".Application_ListView_AtBus"
+            android:screenOrientation="landscape"></activity>
+
+        <activity android:name=".Application_ListView_AtStore"
+            android:screenOrientation="landscape"></activity>
+
+
+        <activity
+            android:name=".Grammar_02"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_03"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_04"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_05"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_06"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_07"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_08"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_09"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_10"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_11"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_12"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_13"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_14"
+            android:screenOrientation="landscape" />
+        <activity
+            android:name=".Grammar_15"
+            android:screenOrientation="landscape" />
+
+        <activity android:name=".Advertisement"
+            android:screenOrientation="landscape">
+        </activity>
+
+        <activity android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent"/>
+
+
+        <activity android:name=".FeedBack"
+            android:screenOrientation="landscape"/>
+
+    </application>
+
+</manifest>

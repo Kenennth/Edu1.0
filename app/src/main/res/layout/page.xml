@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="2">
+
+    <TextView
+        android:layout_weight="1"
+        android:padding="18dp"
+        android:id="@+id/image1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:textColor="#000000"
+        android:textSize="14sp"
+        android:text="동사\n
+동사란 사물이나 사람이 움직이는 행위들을 나타내기 위한 품사입니다. 예를 들자면,"/>
+
+
+
+
+
+</LinearLayout>

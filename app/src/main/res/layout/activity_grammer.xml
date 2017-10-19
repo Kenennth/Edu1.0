@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kenneth1993.education.Grammar"
+    android:padding="8dp"
+    android:orientation="vertical"
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <ScrollView
+            android:paddingTop="80dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/grammarback">
+
+            <GridLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_marginLeft="20dp"
+                android:columnCount="3"
+                >
+                <ImageView
+                    android:layout_width="170dp"
+                    android:layout_height="50dp"
+                    android:background="@drawable/gtitle"/>
+
+                <Space />
+                <Space />
+
+                <ImageButton
+                    android:id="@+id/btn1"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn1"
+                    android:background="@drawable/gbtn1"
+                    />
+
+                <ImageButton
+                    android:id="@+id/btn2"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn2"
+                    android:background="@drawable/gbtn2"/>
+
+                <ImageButton
+                    android:id="@+id/btn3"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn3"
+                    android:background="@drawable/gbtn3"/>
+
+                <ImageButton
+                    android:id="@+id/btn4"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn4"
+                    android:background="@drawable/gbtn4"/>
+
+                <ImageButton
+                    android:id="@+id/btn5"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn5"
+                    android:background="@drawable/gbtn5"/>
+
+                <ImageButton
+                    android:id="@+id/btn6"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn6"
+                    android:background="@drawable/gbtn6"/>
+
+                <ImageButton
+                    android:id="@+id/btn7"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn7"
+                    android:background="@drawable/gbtn7"/>
+
+                <ImageButton
+                    android:id="@+id/btn8"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn8"
+                    android:background="@drawable/gbtn8"/>
+
+                <ImageButton
+                    android:id="@+id/btn9"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn9"
+                    android:background="@drawable/gbtn9"/>
+
+                <ImageButton
+                    android:id="@+id/btn10"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn10"
+                    android:background="@drawable/gbtn10"/>
+
+                <ImageButton
+                    android:id="@+id/btn11"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn11"
+                    android:background="@drawable/gbtn11"/>
+
+                <ImageButton
+                    android:id="@+id/btn12"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn12"
+                    android:background="@drawable/gbtn12"/>
+
+                <ImageButton
+                    android:id="@+id/btn13"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:onClick="btn13"
+                    android:background="@drawable/gbtn13"/>
+
+                <ImageButton
+                    android:id="@+id/btn14"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/gbtn14"
+                    android:onClick="btn14"
+                    />
+
+                <ImageButton
+                    android:id="@+id/btn15"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/gbtn15"
+                    android:onClick="btn15"
+                    />
+
+                <ImageButton
+                    android:id="@+id/btn16"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/gbtn16"
+                    android:onClick="btn16"/>
+
+                <ImageButton
+                    android:id="@+id/btn17"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/gbtn17"
+                    android:onClick="btn17"/>
+
+                <ImageButton
+                    android:id="@+id/btn18"
+                    android:layout_width="150dp"
+                    android:layout_height="50dp"
+                    android:layout_marginRight="15dp"
+                    android:layout_marginTop="15dp"
+                    android:background="@drawable/gbtn18"
+                    android:onClick="btn18"/>
+
+
+            </GridLayout>
+
+        </ScrollView>
+
+    </ScrollView>
+
+
+
+
+
+
+
+    </LinearLayout>
+
+
+
+
+
+
+
+
+
+
+
+

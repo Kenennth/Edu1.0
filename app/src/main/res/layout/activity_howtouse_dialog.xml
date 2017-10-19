@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                >
+
+                <TextView
+
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff"
+                    android:textSize="15dp"/>
+
+                <TextView
+                    android:padding="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff"
+                    android:text="안녕하세요~!\n 이전과 다름없이, 영어는 배워야하는 필수적인 언어입니다.\n
+모두들 아시겠지만, 영어를 배우게 되면, 얻을 수 있는 것들이, 생각보다 많습니다.\n 그렇기에 더욱 더 영어에 대한
+배움이 필수라고 얘기할 수 있습니다. 하지만 우리가 학창시절에 혹은 성인이 되어서 영어를 배우기에는
+주변 환경적인 요소나 잘못된 교육 방식으로 더욱 복잡하게 느껴 질 수있습니다.\n 결론을 말씀 드리자면,
+이 어플리케이션은 영어를 배우고자 하시는 분들이나 학업중에 밀렸던 내용이나 추가로 예습을 하고자
+하는 의지가 있으신 분들께 최대한 지루하지 않고 꾸준히 배울 수 있게 만들어 보았습니다.\n '영어는 문법이 크게 중요하지 않다'
+라고 생각 하시는 분들도 계시지만, 저는 그렇게 생각하지 않습니다.\n 문법을 마스터 해서, 영어문장을 읽고, 문법에
+맞춰서 문장을 만드는 연습을 꾸준히 한다면, 어느 순간에는 자신의 영어 실력이, 훌쩍 올랐다고 체감 할 수 있으실 겁니다.\n\n"
+                    />
+
+                <TextView
+                    android:layout_marginTop="15dp"
+                    android:layout_marginLeft="20dp"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
+                    android:text="설명"
+                    android:textSize="15dp"/>
+
+                <TextView
+                    android:padding="20dp"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="#ffffff"
+                    android:text="
+앱에 대해서 소개해 드리겠습니다.\n 문법 파트로 이동하시면, 영어 문법의 각 파트별로 정리해 놓았습니다.\n
+각 내용의 전반적인 구조는, 첫번째로 설명과 함께 예시가 있습니다.\n 학습한 것을 내 것으로 만들기 위해서는, 어떠한 경우에도,
+망설임 없이 답할 수 있도록 숙지 되어야 하기 때문에, 따로 이 부분에서는 응용을 하지 않겠습니다.\n\n
+
+응용 파트입니다.\n 이 파트에서는 문법을 습득한 것들을 토대로 실전처럼 일상 생활중에 겪는 회화중에 바로 쓸 수있는 문장을
+작문해서 빠르게 얘기 할 수있는 적응력과 응용력을 학습하게 될 부분입니다.
+
+마지막 컨텐츠 부분입니다.\n 이 부분에서는 이 앱에 더해서 영어학습에 도움이 될 수있는 웹 사이트나, 어플들을 소개합니다."/>
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </ScrollView>
+
+
+
+
+
+
+</LinearLayout>

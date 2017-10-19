@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kenneth1993.education.MainScreen"
+    android:orientation="horizontal"
+    >
+
+<HorizontalScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <HorizontalScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/mainbackgound"
+        >
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent">
+
+            <TextView
+                android:id="@+id/text1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="1.앱 이용하는 방법"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_above="@+id/a"
+                android:layout_alignLeft="@+id/a"
+                android:layout_alignStart="@+id/a"
+                android:layout_marginBottom="14dp" />
+
+            <ImageButton
+                android:id="@+id/a"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="HowToUse"
+                android:src="@drawable/wonder"
+                android:background="#00000000"
+                android:layout_marginLeft="64dp"
+                android:layout_marginStart="64dp"
+                android:layout_alignTop="@+id/d"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true" />
+
+            <TextView
+                android:id="@+id/text2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="2.영어 문법 배우기"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_alignBaseline="@+id/text1"
+                android:layout_alignBottom="@+id/text1"
+                android:layout_alignLeft="@+id/b"
+                android:layout_alignStart="@+id/b" />
+
+            <ImageButton
+                android:id="@+id/b"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="Grammar"
+                android:src="@drawable/start"
+                android:background="#00000000"
+                android:layout_marginLeft="46dp"
+                android:layout_marginStart="46dp"
+                android:layout_alignTop="@+id/a"
+                android:layout_toRightOf="@+id/a"
+                android:layout_toEndOf="@+id/a" />
+
+            <TextView
+                android:id="@+id/text3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="3.영어 응용하기"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_alignBaseline="@+id/text2"
+                android:layout_alignBottom="@+id/text2"
+                android:layout_alignLeft="@+id/c"
+                android:layout_alignStart="@+id/c" />
+
+            <ImageButton
+                android:id="@+id/c"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:onClick="Application"
+                android:src="@drawable/activity"
+                android:background="#00000000"
+                android:layout_marginLeft="45dp"
+                android:layout_marginStart="45dp"
+                android:layout_alignTop="@+id/d"
+                android:layout_toRightOf="@+id/b"
+                android:layout_toEndOf="@+id/b" />
+
+            <TextView
+                android:id="@+id/text4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="4.피드백 주세요!"
+                android:textSize="15sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_alignBaseline="@+id/text3"
+                android:layout_alignBottom="@+id/text3"
+                android:layout_alignLeft="@+id/d"
+                android:layout_alignStart="@+id/d" />
+
+            <ImageButton
+                android:id="@+id/d"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:onClick="FeedBack"
+                android:src="@drawable/otherelse"
+                android:layout_marginLeft="39dp"
+                android:layout_marginStart="39dp"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/c"
+                android:layout_toEndOf="@+id/c"
+                android:layout_marginTop="94dp" />
+
+            <TextView
+                android:id="@+id/text5"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5.개발자가 기특하면 눌러주세요.☞☜"
+                android:textSize="10sp"
+                android:textStyle="bold"
+                android:textColor="#000000"
+                android:layout_marginTop="35dp"
+                android:layout_below="@+id/a"
+                android:layout_alignLeft="@+id/e"
+                android:layout_alignStart="@+id/e" />
+
+            <ImageButton
+                android:id="@+id/e"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="#00000000"
+                android:onClick="Advertisement"
+                android:src="@drawable/support"
+                android:layout_marginTop="67dp"
+                android:layout_below="@+id/a"
+                android:layout_alignLeft="@+id/a"
+                android:layout_alignStart="@+id/a" />
+
+        </RelativeLayout>
+
+
+    </HorizontalScrollView>
+
+</HorizontalScrollView>
+
+
+
+</LinearLayout>
